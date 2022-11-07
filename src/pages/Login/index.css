@@ -1,8 +1,17 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+.content{
+    background-color: #1A3441;
+    height: auto;
+    width: auto;
+    max-width: 600px;
+}
+.form-login{
+    color: #fff;
+    padding: 30px;
 }
 input{
+    width: 100%;
+    font-size: 14pt;
+}
+#button-confirm > button{
     width: 100%;
 }
